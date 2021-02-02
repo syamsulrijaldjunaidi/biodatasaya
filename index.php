@@ -10,9 +10,9 @@
 </head>
 <body background ="2222.jpeg" >
 <h1>M E N U</h1>
-	<p><a href="Profil3.html">Riwayat Hidup</a></p>
-	<p><a href="Profil2.html">Keterangan Diri Mahasiswa</a></p>
-	<p><a href="Profil1.html">Riwayat Orang Tua</a></p>
+	<p><a href="Profil3.php">Riwayat Hidup</a></p>
+	<p><a href="Profil2.php">Keterangan Diri Mahasiswa</a></p>
+	<p><a href="index.php">Riwayat Orang Tua</a></p>
 <hr>
 <h1>Riwayat Hidup Orang Tua</h1>
 <hr>
