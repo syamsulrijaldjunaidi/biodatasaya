@@ -8,7 +8,7 @@
 
 </style>
 </head>
-<body background ="2222.jpeg" >
+<body background ="1111.jpg" >
 <h1>M E N U</h1>
 	<p><a href="Profil3.php">Riwayat Hidup</a></p>
 	<p><a href="index.php">Keterangan Diri Mahasiswa</a></p>
