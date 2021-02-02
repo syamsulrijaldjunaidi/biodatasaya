@@ -12,8 +12,8 @@
 <h1>M E N U</h1>
 <ul>
 	<li><a href="Profil3.php">Riwayat Hidup</a></li>
-	<li><a href="Profil2.php">Keterangan Diri Mahasiswa</a></li>
-	<li><a href="index.php">Riwayat Orang Tua</a></li>
+	<li><a href="index.php">Keterangan Diri Mahasiswa</a></li>
+	<li><a href="Profil2.php">Riwayat Orang Tua</a></li>
 </ul>
 <hr>
 	<h1 align="center">Keterangan Diri Mahasiswa</h1>
