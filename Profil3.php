@@ -8,7 +8,7 @@
 
 </style>
 </head>
-<body background ="2222.jpeg">
+<body background ="1111.jpg">
 <h1>M E N U</h1>
 <ul>
 	<li><a href="Profil3.php">Riwayat Hidup</a></li>
